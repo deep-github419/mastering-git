@@ -1,4 +1,4 @@
 This my file 1 for git course.
 
 adding content to file 1.
-bug-fix broung : file1 modified.
+bug-fix branch : file1 modified.
