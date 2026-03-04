@@ -3,3 +3,4 @@ This my file 2 for git course.
 adding more content to file 2.
 
 add another marketing message section.
+add fotter note.
