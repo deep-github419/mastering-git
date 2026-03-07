@@ -6,3 +6,5 @@ Fourth big fixed.
 Fifth bug fixed.
 
 another fix message for pink mode.
+
+psuhing to remore repo mastering-git.
