@@ -1,5 +1,4 @@
-Heyooo everyone, welcome to my guide.
+Welcome to Git.
 
-Yo, John here.
-
+This is coming from dev-adrian.
 adding from feature branch.
