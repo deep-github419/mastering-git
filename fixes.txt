@@ -4,3 +4,5 @@ fixed another bug.
 One more bug detected and fixed.
 Fourth big fixed.
 Fifth bug fixed.
+
+another fix message for pink mode.
