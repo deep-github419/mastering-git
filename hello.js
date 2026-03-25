@@ -12,3 +12,7 @@ console.log('Hello, World!');
 function addNumbers(a, b) {
     return a + b;
 }
+
+function countChars(word) {
+    return word.length;
+}
