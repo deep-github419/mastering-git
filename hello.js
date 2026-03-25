@@ -8,3 +8,7 @@ console.log('Hello, World!');
 // CODE
 // CODE
 // CODE
+
+function addNumbers(a, b) {
+    return a + b;
+}
