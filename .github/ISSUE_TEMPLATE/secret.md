@@ -1,3 +1,10 @@
-##Welcome to the secret submission
+---
+name: Secret Issue
+about: Describe this issue template
+title: "[SECRET] "
+labels: ""
+assignees: ""
+---
 
-Submit to secrets. :cool:
+## Description
+Explain your issue here
