@@ -3,3 +3,5 @@ This my file 1 for git course.
 adding content to file 1.
 
 main branch : file 1 modified.
+
+checking Draft pull
